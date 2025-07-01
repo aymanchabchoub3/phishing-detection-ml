@@ -1,0 +1,11 @@
+# Virtual environment
+venv312/
+# IDE settings
+.idea/
+# Bytecode and caches
+__pycache__/
+*.py[cod]
+# Data & models
+dataset/
+Model/catboost_info/
+Image/
